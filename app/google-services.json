@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306359241488",
+    "firebase_url": "https://smartassistance-906eb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartassistance-906eb",
+    "storage_bucket": "smartassistance-906eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306359241488:android:06fc58490170d46950f395",
+        "android_client_info": {
+          "package_name": "com.example.my_smart_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306359241488-ohijrkpp021apsnpmhck6ikuricocur7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDtwQKhbzzcWjMZnQMyS8vSev6oU8ToU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306359241488-ohijrkpp021apsnpmhck6ikuricocur7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
